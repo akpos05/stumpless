@@ -20,6 +20,7 @@
 [Basic Usage](#basic-usage) |
 [Contributing](#contributing)
 
+## Stan was here again 
 
 ## Key Features
 Stumpless has lots of features that make logging in C fast and easy:
